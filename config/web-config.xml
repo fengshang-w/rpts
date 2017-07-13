@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<web-config>
+
+	<debug>true</debug>
+	<log>true</log>
+	<log-file-root>log/rms-app/log</log-file-root>
+	<debug-sql>true</debug-sql>
+	<log-sql>true</log-sql>
+	<log-sql-file-root>log/rms-app/sql</log-sql-file-root>
+	<log-func>false</log-func>
+	<log-history>false</log-history>
+
+	<validate>false</validate>
+	<initializer>com.synnex.cdc.waf.security.Initializer</initializer>
+
+	<bill-server>false</bill-server>
+	<taskManager>false</taskManager>
+	<net-update>false</net-update>
+	<server-name>test</server-name>
+	<web-port>80</web-port>
+	<jms-port>8899</jms-port>
+
+	<default-language>EN</default-language>
+	<default-style>nav</default-style>
+	<default-funcURL>MainServlet?funcName=pam_searchEntry</default-funcURL>
+	<max-FuncWin>5</max-FuncWin>
+
+	<app-config>/WEB-INF/app-config_@language@.xml</app-config>
+	<app-desc>/WEB-INF/app-desc_@language@.xml</app-desc>
+	<template-config>/WEB-INF/template.xml</template-config>
+	<spring-config>applicationContext.xml</spring-config>
+	<menu-config>/WEB-INF/menu_@language@.xml</menu-config>
+
+	<func-config>func-config.xml</func-config>
+	<doc-root>/@language@/docroot</doc-root>
+	<session-error-page>com.synnex.cdc.waf.security.view.Start</session-error-page>
+	<error-page>com.synnex.cdc.waf.tmpl.ErrorJSP</error-page>
+
+	<data-source>Sybase</data-source>
+	<dao id="DAO" class="com.synnex.cdc.waf.sql.SybaseDAO"/>
+	
+	<default-bean-type>spring</default-bean-type>
+
+	<remote-context/>
+
+	<uncheck>
+		<funcName>sys_security</funcName>
+	</uncheck>
+
+</web-config>

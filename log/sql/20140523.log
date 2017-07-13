@@ -1,0 +1,4 @@
+07:58:13 SQL344307822: select date_add(now(), interval 1 hour)
+07:58:13 SQL344307822: elapsed=328ms return rows 1
+07:58:13 SQL-677365638: select a.job_type,c.group_name,a.user_id,a.login_id,b.first_name,date_add(a.last_login_datetime,interval 1 hour) last_login_datetime,date_add(a.active_time,interval 1 hour) active_time,e.business_code from staff_login a inner join staff b on a.user_id=b.user_id inner join staff_group c on b.group_id=c.group_id left join (select user_id,min(business_type) business_type from task_queue where status='Y' group by user_id) d on a.user_id=d.user_id left join business_code e on d.business_type=e.business_type where date_add(a.active_time, interval 15 minute) > now() order by a.job_type,c.group_name,a.login_id
+07:58:13 SQL-677365638: elapsed=16ms return rows 4

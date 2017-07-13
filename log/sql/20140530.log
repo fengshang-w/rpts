@@ -1,0 +1,91 @@
+08:36:20 SQL-534325677: call rpt_daily_jobm()
+08:36:57 SQL-1281562916: call rpt_daily_jobm()
+08:37:00 SQL-1281562916: elapsed=3125ms return rows 4
+08:37:00 SQL-1409557291: call rpt_daily_tpgag()
+08:37:01 SQL-1409557291: elapsed=516ms return rows 9
+08:37:01 SQL-1147682627: call rpt_daily_cep()
+08:37:03 SQL-1147682627: elapsed=2312ms return rows 15
+08:43:25 SQL1603445103: call rpt_daily_jobm()
+08:43:28 SQL1603445103: elapsed=2984ms return rows 4
+08:43:28 SQL-587373470: call rpt_daily_tpgag()
+08:43:28 SQL-587373470: elapsed=516ms return rows 9
+08:43:28 SQL-1792301108: call rpt_daily_cep()
+08:43:30 SQL-1792301108: elapsed=2109ms return rows 15
+08:48:36 SQL1971337804: call rpt_daily_jobm()
+08:48:39 SQL1971337804: elapsed=2985ms return rows 4
+08:48:39 SQL-1444661837: call rpt_daily_tpgag()
+08:48:39 SQL-1444661837: elapsed=516ms return rows 9
+08:48:39 SQL258037364: call rpt_daily_cep()
+08:48:41 SQL258037364: elapsed=2047ms return rows 15
+09:01:25 SQL1946219148: call rpt_daily_jobm()
+09:01:28 SQL1946219148: elapsed=2985ms return rows 4
+09:01:29 SQL-835117935: call rpt_daily_tpgag()
+09:01:29 SQL-835117935: elapsed=532ms return rows 9
+09:01:29 SQL752952308: call rpt_daily_cep()
+09:01:31 SQL752952308: elapsed=2125ms return rows 15
+09:03:06 SQL-688209723: call rpt_daily_jobm()
+09:03:09 SQL-688209723: elapsed=3000ms return rows 4
+09:03:09 SQL1824476832: call rpt_daily_tpgag()
+09:03:09 SQL1824476832: elapsed=516ms return rows 9
+09:03:09 SQL2016223035: call rpt_daily_cep()
+09:03:11 SQL2016223035: elapsed=2078ms return rows 15
+09:04:29 SQL1014225530: call rpt_daily_jobm()
+09:04:32 SQL1014225530: elapsed=3063ms return rows 4
+09:04:32 SQL-520392082: call rpt_daily_tpgag()
+09:04:33 SQL-520392082: elapsed=515ms return rows 9
+09:04:33 SQL1366249566: call rpt_daily_cep()
+09:04:35 SQL1366249566: elapsed=2125ms return rows 15
+09:07:40 SQL892763495: call rpt_daily_jobm()
+09:07:43 SQL892763495: elapsed=2953ms return rows 4
+09:07:43 SQL-1542639088: call rpt_daily_tpgag()
+09:07:44 SQL-1542639088: elapsed=515ms return rows 9
+09:07:44 SQL-844401101: call rpt_daily_cep()
+09:07:46 SQL-844401101: elapsed=2172ms return rows 15
+09:11:18 SQL147359826: call rpt_daily_jobm()
+09:11:21 SQL147359826: elapsed=3171ms return rows 4
+09:11:21 SQL-323398590: call rpt_daily_tpgag()
+09:11:21 SQL-323398590: elapsed=500ms return rows 9
+09:11:21 SQL1399657402: call rpt_daily_cep()
+09:11:24 SQL1399657402: elapsed=2328ms return rows 15
+09:15:01 SQL-1275575655: call rpt_daily_jobm()
+09:15:04 SQL-1275575655: elapsed=3031ms return rows 4
+09:15:04 SQL-1833361429: call rpt_daily_tpgag()
+09:15:05 SQL-1833361429: elapsed=531ms return rows 9
+09:15:05 SQL230932610: call rpt_daily_cep()
+09:15:07 SQL230932610: elapsed=2141ms return rows 15
+09:20:48 SQL-301658763: call rpt_daily_jobm()
+09:20:51 SQL-301658763: elapsed=3015ms return rows 4
+09:20:51 SQL-1892424520: call rpt_daily_tpgag()
+09:20:51 SQL-1892424520: elapsed=500ms return rows 9
+09:20:51 SQL2029226679: call rpt_daily_cep()
+09:20:54 SQL2029226679: elapsed=2250ms return rows 16
+09:22:10 SQL-892117168: call rpt_daily_jobm()
+09:22:13 SQL-892117168: elapsed=2985ms return rows 4
+09:22:13 SQL-237895615: call rpt_daily_tpgag()
+09:22:13 SQL-237895615: elapsed=531ms return rows 9
+09:22:13 SQL1611294565: call rpt_daily_cep()
+09:22:16 SQL1611294565: elapsed=2735ms return rows 16
+09:29:54 SQL1264544999: call rpt_daily_jobm()
+09:29:57 SQL1264544999: elapsed=3000ms return rows 4
+09:29:57 SQL712527160: call rpt_daily_tpgag()
+09:29:57 SQL712527160: elapsed=500ms return rows 9
+09:29:57 SQL-2143290688: call rpt_daily_cep()
+09:30:00 SQL-2143290688: elapsed=2313ms return rows 16
+09:31:05 SQL-2122145850: call rpt_daily_jobm()
+09:31:08 SQL-2122145850: elapsed=3016ms return rows 4
+09:31:08 SQL-2110187937: call rpt_daily_tpgag()
+09:31:09 SQL-2110187937: elapsed=515ms return rows 9
+09:31:09 SQL425966017: call rpt_daily_cep()
+09:31:11 SQL425966017: elapsed=2125ms return rows 16
+11:08:58 SQL-904000735: call rpt_daily_jobm()
+11:09:01 SQL-904000735: elapsed=3094ms return rows 4
+11:09:01 SQL895986734: call rpt_daily_tpgag()
+11:09:02 SQL895986734: elapsed=500ms return rows 9
+11:09:02 SQL-1987281994: call rpt_daily_cep()
+11:09:04 SQL-1987281994: elapsed=2484ms return rows 16
+11:11:35 SQL-273220658: call rpt_daily_jobm()
+11:11:38 SQL-273220658: elapsed=3016ms return rows 4
+11:11:38 SQL-190897914: call rpt_daily_tpgag()
+11:11:39 SQL-190897914: elapsed=484ms return rows 9
+11:11:39 SQL1332840041: call rpt_daily_cep()
+11:11:41 SQL1332840041: elapsed=2265ms return rows 16

@@ -1,0 +1,12 @@
+18:18:21 SQL1453030027: select now()
+18:18:21 SQL1453030027: elapsed=312ms return rows 1
+18:18:21 SQL-1943432300: select a.job_type,c.group_name,a.user_id,a.login_id,b.first_name,a.last_login_datetime,a.active_time,e.business_code from staff_login a inner join staff b on a.user_id=b.user_id inner join staff_group c on b.group_id=c.group_id left join (select user_id,min(business_type) business_type from task_queue where status='Y' group by user_id) d on a.user_id=d.user_id left join business_code e on d.business_type=e.business_type where date_add(a.active_time, interval 15 minute) > now() order by a.job_type,c.group_name,a.login_id
+18:18:21 SQL-1943432300: elapsed=15ms return rows 22
+18:23:15 SQL1451355224: select date_add(now(), interval 1 hour)
+18:23:15 SQL1451355224: elapsed=313ms return rows 1
+18:23:15 SQL-1990603905: select a.job_type,c.group_name,a.user_id,a.login_id,b.first_name,a.last_login_datetime,a.active_time,e.business_code from staff_login a inner join staff b on a.user_id=b.user_id inner join staff_group c on b.group_id=c.group_id left join (select user_id,min(business_type) business_type from task_queue where status='Y' group by user_id) d on a.user_id=d.user_id left join business_code e on d.business_type=e.business_type where date_add(a.active_time, interval 15 minute) > now() order by a.job_type,c.group_name,a.login_id
+18:23:15 SQL-1990603905: elapsed=15ms return rows 4
+18:24:46 SQL342533732: select date_add(now(), interval 1 hour)
+18:24:46 SQL342533732: elapsed=391ms return rows 1
+18:24:46 SQL-1109185184: select a.job_type,c.group_name,a.user_id,a.login_id,b.first_name,a.last_login_datetime,a.active_time,e.business_code from staff_login a inner join staff b on a.user_id=b.user_id inner join staff_group c on b.group_id=c.group_id left join (select user_id,min(business_type) business_type from task_queue where status='Y' group by user_id) d on a.user_id=d.user_id left join business_code e on d.business_type=e.business_type where date_add(a.active_time, interval 15 minute) > now() order by a.job_type,c.group_name,a.login_id
+18:24:46 SQL-1109185184: elapsed=15ms return rows 11

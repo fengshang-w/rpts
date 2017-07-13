@@ -1,0 +1,14 @@
+14:17:21 SQL1418741428: call rpt_daily_cep_n()
+14:17:24 SQL1418741428: elapsed=2787ms return rows 25
+14:36:15 SQL-1752757141: call rpt_daily_cep_n()
+14:36:17 SQL-1752757141: elapsed=1744ms return rows 24
+14:40:07 SQL-1155338065: call rpt_daily_cep_n()
+14:40:09 SQL-1155338065: elapsed=1837ms return rows 24
+14:47:17 SQL-298599767: call rpt_daily_cep_n()
+14:47:19 SQL-298599767: elapsed=1905ms return rows 24
+14:48:51 SQL1181001670: call rpt_daily_cep_n()
+14:48:53 SQL1181001670: elapsed=1751ms return rows 24
+14:53:10 SQL-761590488: call rpt_daily_cep_n()
+14:53:12 SQL-761590488: elapsed=2644ms return rows 24
+14:54:55 SQL119545526: call rpt_daily_cep_n()
+14:54:57 SQL119545526: elapsed=2415ms return rows 24

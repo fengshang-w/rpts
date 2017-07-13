@@ -1,0 +1,103 @@
+10:55:55 SQL1755799303: call rpt_daily_jobm
+10:56:48 SQL765046015: call rpt_daily_jobm
+10:57:01 SQL-304116897: call rpt_daily_jobm
+10:57:02 SQL-304116897: elapsed=422ms return rows 4
+10:59:27 SQL-158938949: call rpt_daily_jobm
+10:59:27 SQL-158938949: elapsed=343ms return rows 4
+11:03:04 SQL-677063559: call rpt_daily_jobm
+11:03:05 SQL-677063559: elapsed=359ms return rows 4
+11:10:45 SQL508709990: call rpt_daily_jobm
+11:10:45 SQL508709990: elapsed=344ms return rows 4
+11:28:35 SQL-1986876347: call rpt_daily_jobm
+11:29:03 SQL-35790460: call rpt_daily_jobm
+11:29:06 SQL-35790460: elapsed=2921ms return rows 4
+12:08:23 SQL-445352494: call rpt_daily_jobm
+12:08:26 SQL-445352494: elapsed=2953ms return rows 4
+12:08:26 SQL918712951: call rpt_daily_tpgag
+12:09:05 SQL-1123519869: call rpt_daily_jobm
+12:09:07 SQL-1123519869: elapsed=2953ms return rows 4
+12:09:07 SQL1304709295: call rpt_daily_tpgag
+12:14:56 SQL1922183628: call rpt_daily_jobm
+12:14:59 SQL1922183628: elapsed=2938ms return rows 4
+12:14:59 SQL1121943975: call rpt_daily_tpgag
+12:14:59 SQL1121943975: elapsed=454ms return rows 8
+12:16:59 SQL-1765537802: call rpt_daily_jobm
+12:17:02 SQL-1765537802: elapsed=2937ms return rows 4
+12:17:02 SQL661512389: call rpt_daily_tpgag
+12:17:02 SQL661512389: elapsed=453ms return rows 8
+12:18:27 SQL-1988338459: call rpt_daily_jobm
+12:18:30 SQL-1988338459: elapsed=2938ms return rows 4
+12:18:30 SQL-362889683: call rpt_daily_tpgag
+12:18:30 SQL-362889683: elapsed=468ms return rows 8
+12:22:03 SQL-1014862597: call rpt_daily_jobm
+12:22:06 SQL-1014862597: elapsed=2954ms return rows 4
+12:22:06 SQL1146440041: call rpt_daily_tpgag
+12:22:06 SQL1146440041: elapsed=453ms return rows 8
+12:26:56 SQL776296627: call rpt_daily_jobm
+12:26:59 SQL776296627: elapsed=2937ms return rows 4
+12:26:59 SQL1212770798: call rpt_daily_tpgag
+12:26:59 SQL1212770798: elapsed=469ms return rows 8
+12:35:43 SQL-931064901: call rpt_daily_jobm
+12:35:46 SQL-931064901: elapsed=3016ms return rows 4
+12:35:46 SQL1127861319: call rpt_daily_tpgag
+12:35:47 SQL1127861319: elapsed=453ms return rows 8
+12:51:54 SQL825004484: call rpt_daily_jobm
+12:51:57 SQL825004484: elapsed=3031ms return rows 4
+12:51:57 SQL1581113136: call rpt_daily_tpgag
+12:51:58 SQL1581113136: elapsed=437ms return rows 8
+18:20:44 SQL-940668294: call rpt_daily_jobm()
+18:20:49 SQL-940668294: elapsed=4079ms return rows 4
+18:20:49 SQL-1189272611: call rpt_daily_tpgag()
+18:20:49 SQL-1189272611: elapsed=453ms return rows 8
+18:20:49 SQL164422278: call rpt_daily_cep()
+18:21:52 SQL-904843783: call rpt_daily_jobm()
+18:21:55 SQL-904843783: elapsed=2953ms return rows 4
+18:21:55 SQL134772795: call rpt_daily_tpgag()
+18:21:55 SQL134772795: elapsed=469ms return rows 8
+18:21:56 SQL-1656589792: call rpt_daily_cep()
+18:21:58 SQL-1656589792: elapsed=2187ms return rows 15
+18:35:49 SQL-51845022: call rpt_daily_jobm()
+18:35:52 SQL-51845022: elapsed=2937ms return rows 4
+18:35:52 SQL-1816881468: call rpt_daily_tpgag()
+18:35:52 SQL-1816881468: elapsed=438ms return rows 8
+18:35:52 SQL1411207745: call rpt_daily_cep()
+18:35:54 SQL1411207745: elapsed=2250ms return rows 15
+18:40:00 SQL-1051286794: call rpt_daily_jobm()
+18:40:03 SQL-1051286794: elapsed=2953ms return rows 4
+18:40:03 SQL-1454679808: call rpt_daily_tpgag()
+18:40:04 SQL-1454679808: elapsed=453ms return rows 8
+18:40:04 SQL-722757299: call rpt_daily_cep()
+18:40:06 SQL-722757299: elapsed=2000ms return rows 15
+18:43:58 SQL-351569539: call rpt_daily_jobm()
+18:44:01 SQL-351569539: elapsed=2921ms return rows 4
+18:44:01 SQL-1196305807: call rpt_daily_tpgag()
+18:44:02 SQL-1196305807: elapsed=454ms return rows 8
+18:44:02 SQL641417039: call rpt_daily_cep()
+18:44:04 SQL641417039: elapsed=2734ms return rows 15
+18:56:29 SQL-1896922943: call rpt_daily_jobm()
+18:56:32 SQL-1896922943: elapsed=2953ms return rows 4
+18:56:32 SQL1635279835: call rpt_daily_tpgag()
+18:56:32 SQL1635279835: elapsed=562ms return rows 8
+18:56:32 SQL-1145798692: call rpt_daily_cep()
+18:56:35 SQL-1145798692: elapsed=2297ms return rows 15
+18:57:50 SQL-2025378845: call rpt_daily_jobm()
+18:57:54 SQL-2025378845: elapsed=3094ms return rows 4
+18:57:54 SQL1112587764: call rpt_daily_tpgag()
+18:57:54 SQL1112587764: elapsed=531ms return rows 8
+18:57:54 SQL2028755039: call rpt_daily_cep()
+18:57:56 SQL2028755039: elapsed=2110ms return rows 15
+19:01:01 SQL-823692997: call rpt_daily_jobm()
+19:01:04 SQL-823692997: elapsed=2968ms return rows 4
+19:01:04 SQL-974373852: call rpt_daily_tpgag()
+19:01:04 SQL-974373852: elapsed=532ms return rows 8
+19:01:04 SQL-1906935548: call rpt_daily_cep()
+19:01:07 SQL-1906935548: elapsed=2469ms return rows 15
+19:09:11 SQL1643561687: call rpt_daily_jobm()
+19:09:14 SQL1643561687: elapsed=2953ms return rows 4
+19:09:14 SQL393624985: call rpt_daily_tpgag()
+19:12:43 SQL-1814310500: call rpt_daily_jobm()
+19:12:46 SQL-1814310500: elapsed=2968ms return rows 4
+19:12:46 SQL643890929: call rpt_daily_tpgag()
+19:12:47 SQL643890929: elapsed=547ms return rows 9
+19:12:47 SQL-1510528938: call rpt_daily_cep()
+19:12:49 SQL-1510528938: elapsed=2125ms return rows 15
